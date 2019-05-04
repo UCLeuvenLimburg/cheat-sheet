@@ -23,7 +23,7 @@ github_username:  fvogels
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
   - jekyll-sitemap
