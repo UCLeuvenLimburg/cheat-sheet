@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 table {
-    margin: 5px auto;
+    margin: 1em auto;
     width: 80%;
 
     th {
@@ -15,4 +15,12 @@ table {
     td {
         border: 1px solid black !important;
     }
+}
+
+h2 {
+    margin-top: 1em;
+}
+
+code {
+    font-family: "Lucida Console", Monaco, monospace;
 }
