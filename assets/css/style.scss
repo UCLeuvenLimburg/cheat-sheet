@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table {
+    margin: 5px auto;
+    width: 80%;
+
+    th {
+        background: #444;
+        color: white;
+    }
+
+    td {
+        border: 1px solid black !important;
+    }
+}
