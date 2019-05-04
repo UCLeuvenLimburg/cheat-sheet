@@ -5,11 +5,11 @@ layout: default
 
 ```cpp
 // Working example
-class Shape                 { ... };
+class Shape { ... };
 class Circle : public Shape { ... };
 class Square : public Shape { ... };
 
-class Vehicle               { ... };
+class Vehicle { ... };
 class Car : public Vehicle  { ... };
 ```
 
@@ -45,4 +45,14 @@ Square* square = dynamic_cast<Square*>(shape); // compiles
 // square == nullptr
 
 Car* car = dynamic_cast<Car*>(shape); // compile error
+```
+
+## reinterpret_cast
+
+[`reinterpret_cast`](https://en.cppreference.com/w/cpp/language/reinterpret_cast) is the most dangerous cast
+and allows you to change types at will. It tells the compiler to change its interpretation of the same bits.
+
+```c++
+float f;
+int n = *reinterpret_cast<int*>(&f);
 ```
