@@ -5,7 +5,7 @@
 
 table {
     margin: 1em auto;
-    width: 80%;
+    width: 85%;
 
     th {
         background: #444;
@@ -23,4 +23,8 @@ h2 {
 
 code {
     font-family: "Lucida Console", Monaco, monospace;
+}
+
+section.contents {
+    width: 800px;
 }
