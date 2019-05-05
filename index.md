@@ -4,5 +4,6 @@
 
 layout: default
 ---
-* [C#](csharp/index.md)
-* [C++](cpp/index.md)
+* [C#](csharp/)
+* [C++](cpp/)
+* [Python](python/)
