@@ -39,3 +39,4 @@ s = { x**2 for x in range(1, 5) }
 | `s1 > s2` | Check if `s1` a strict superset of `s2` |
 | `s1 >= s2` | Check if `s1` a superset of `s2` |
 | `s.pop()` | Removes and returns a random element from `s` |
+| `s.pop(x)` | Removes `x` from `s` |
