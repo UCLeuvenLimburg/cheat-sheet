@@ -44,6 +44,7 @@ layout: default
 
 | Syntax | Semantics |
 |-|-|
+| [x|xs] | List construction |
 | `xs ++ ys` | List concatenation |
 | `x in xs` | List membership |
 | `x not in xs` | List membership negation |
