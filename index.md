@@ -6,5 +6,5 @@ layout: default
 ---
 * [C#](csharp/)
 * [C++](cpp/)
-* [C++](elixir/)
+* [Elixir](elixir/)
 * [Python](python/)
