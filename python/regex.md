@@ -35,6 +35,7 @@ layout: default
 | `p{m,n}` | `m` to `n` repetitions of `p` |
 | `p|q` | Matches either `p` or `q` |
 | `[...]` | Character class |
+| `[^...]` | Negated character class |
 | `\d` | Digit |
 | `\D` | Nondigit |
 | `\w` | Word character (letter of underscore) |
@@ -44,3 +45,14 @@ layout: default
 | `\S` | Nonwhitespace character |
 | `\A` | Beginning of string |
 | `\Z` | End of string |
+| `\1`, `\2`, ... | Backreferences |
+
+## Examples
+
+| Regex | Description |
+|:-:|-|
+| `[01]+` | Binary number |
+| `[IVXLCDM]+` | Roman numberal |
+| `-?[1-9]\d*(\.\d*)?` | Floating point number |
+| `\d{2}/\d{2}/\d{4}`| Date (dd/mm/yyyy) |
+| `[A-Z][a-z]*` | Capitalized word |
