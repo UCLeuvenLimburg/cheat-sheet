@@ -4,7 +4,17 @@
 
 layout: default
 ---
+# Languages
+
 * [C#](csharp/)
 * [C++](cpp/)
+* CSS
 * [Elixir](elixir/)
+* Go
+* Haskell
+* HTML
+* Java
+* JavaScript
 * [Python](python/)
+* Ruby
+* TypeScript
