@@ -32,3 +32,18 @@ section.contents {
 a.back-to-home-link {
     color: white;
 }
+
+nav {
+    overflow-y: auto;
+    bottom: 20px;
+    padding-right: 1em;
+}
+
+#theme-developer {
+    float: right;
+    margin-right: 5em;
+
+    a {
+        color: white;
+    }
+}
