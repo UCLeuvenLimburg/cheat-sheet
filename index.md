@@ -16,5 +16,5 @@ layout: default
 * Java
 * JavaScript
 * [Python](python/)
-* Ruby
+* [Ruby](ruby/)
 * TypeScript
