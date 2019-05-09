@@ -3,7 +3,8 @@ layout: default
 ---
 # Python
 
-* [Flow Control](flow-control.md)
+* [Hello World](hello-world.md)
+* [Control Flow](control-flow.md)
 * [Functions](functions.md)
 * [Lists](lists.md)
 * [Dictionaries](dictionaries.md)
