@@ -16,3 +16,8 @@ layout: default
 * [Processes](processes.md)
 * [Streams](streams.md)
 * [Sigils](sigils.md)
+
+TODO
+
+* binaries
+* with, = vs <-
