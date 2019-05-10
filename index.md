@@ -14,7 +14,7 @@ layout: default
 * Haskell
 * HTML
 * Java
-* JavaScript
+* [JavaScript](javascript/)
 * [Python](python/)
 * [Ruby](ruby/)
-* TypeScript
+* [TypeScript](typescript/)
