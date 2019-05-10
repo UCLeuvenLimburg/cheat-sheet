@@ -10,7 +10,7 @@ layout: default
 * [C++](cpp/)
 * CSS
 * [Elixir](elixir/)
-* Go
+* [Go](go/)
 * Haskell
 * HTML
 * Java
