@@ -12,6 +12,7 @@ layout: default
 * [Control Flow](control-flow.md)
 * [Functions](functions.md)
 * [Lists](lists.md)
+* [Maps](maps.md)
 * [Processes](processes.md)
 * [Streams](streams.md)
 * [Sigils](sigils.md)
