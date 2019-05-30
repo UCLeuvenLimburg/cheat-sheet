@@ -8,13 +8,16 @@ layout: default
 
 * [C#](csharp/)
 * [C++](cpp/)
-* CSS
 * [Elixir](elixir/)
 * [Go](go/)
 * Haskell
-* HTML
 * Java
 * [JavaScript](javascript/)
 * [Python](python/)
 * [Ruby](ruby/)
 * [TypeScript](typescript/)
+
+## Other
+
+* CSS
+* HTML
