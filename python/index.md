@@ -10,4 +10,5 @@ layout: default
 * [Dictionaries](dictionaries.md)
 * [Sets](sets.md)
 * [Regular Expressions](regex.md)
+* [IO](io.md)
 * [Typing](typing.md)
