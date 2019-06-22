@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Flow Control
+# Control Flow
 
 # case
 
