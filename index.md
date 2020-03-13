@@ -14,6 +14,7 @@ layout: default
 * Java
 * [JavaScript](javascript/)
 * [Python](python/)
+* [Rake](rake/)
 * [Ruby](ruby/)
 * [TypeScript](typescript/)
 
