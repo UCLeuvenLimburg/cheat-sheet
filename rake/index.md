@@ -7,7 +7,7 @@ layout: default
 
 ```ruby
 # Single rule
-file inputfile => outputfile do
+file outputfile => inputfile do
   build_instructions
 end
 
