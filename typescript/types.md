@@ -41,4 +41,8 @@ type Pick<T, K extends keyof T> = {
 type Record<K extends keyof any, T> = {
     [P in K] : T;
 }
+
+type ParameterTypes<T> = T extends (...args : infer Ps) => infer _R ? Ps : never;
+
+type ReturnType<T> = T extends (...args: any[]) => infer R ? R : never;
 ```
