@@ -20,7 +20,6 @@ parser.add_argument('--flag', action='store_true') # Default false
 parser.add_argument('--flag', action='store_false') # Default true
 parser.add_argument('--flag', action='store_const', const='5', dest='var') # Stores 5 in var
 parser.add_argument('-v', action='count', dest='verbosity_level') # -vvv causes verbosity_level=3
-parser.add_argument('-v', action='count', dest='verbosity_level') # -vvv causes verbosity_level=3
 parser.set_defaults(x=1, y=2, z=3)
 
 args = parser.parse_args()
